@@ -10,4 +10,4 @@ Expertise in creating scalable web applications, custom plugins, and extensions.
 
 ### Familiar with
 
-<img src="https://skillicons.dev/icons?i=git,astro,sass,js,ts,docker,wordpress,electron,react,next,tailwind,redux,php,vscode,jquery,jest,vite,figma&perline=6" width="400px">
+<img src="https://skillicons.dev/icons?i=git,astro,sass,js,ts,docker,wordpress,electron,react,next,tailwind,redux,php,vscode,jquery,jest,vite,figma&perline=6" width="200px">
