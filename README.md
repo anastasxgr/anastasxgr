@@ -2,12 +2,7 @@
 
 #### I'm Alexandros Anastasiadis
 
-#### ⭐ About Me
+#### ⭐ Summary
 
-Self motivated and detail-oriented **Front-end Developer** with hands-on experience gained through personal projects and online courses. 
-Expertise in creating scalable web applications, custom plugins, and extensions.
+Passionate Software Developer and System Administrator with extensive experience in building robust, scalable web applications. My expertise spans across multiple programming languages and frameworks, allowing me to deliver high-quality software solutions.
 
-
-### Familiar with
-
-<img src="https://skillicons.dev/icons?i=git,astro,sass,js,ts,docker,wordpress,electron,react,next,tailwind,redux,alpinejs,php,nodejs,webpack,vite,figma&perline=6" width="250px">
